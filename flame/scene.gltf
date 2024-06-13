@@ -1,0 +1,444 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1384,
+      "max": [
+        0.3638492524623871,
+        2.3802926540374756,
+        0.3638492524623871
+      ],
+      "min": [
+        -0.3638491928577423,
+        0.0010897070169448853,
+        -0.36384913325309753
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 16608,
+      "componentType": 5126,
+      "count": 1384,
+      "max": [
+        0.9989725351333618,
+        1.0,
+        0.9989725351333618
+      ],
+      "min": [
+        -0.9989725351333618,
+        -0.9989911317825317,
+        -0.9989725351333618
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1384,
+      "max": [
+        0.9990679621696472,
+        0.9934868216514587
+      ],
+      "min": [
+        0.0009317215881310403,
+        0.009139059111475945
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 7668,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -2.229376792907715,
+        0.0,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 1384,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1384,
+      "max": [
+        1.0,
+        0.4384596645832062,
+        0.23366378247737885,
+        0.08263467252254486
+      ],
+      "min": [
+        0.4333162009716034,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "skylajade69 (https://sketchfab.com/skylajade69)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fnaf-world-goblet-flame-b9e10dfd5aa54053857e5ef5f0caeb9d",
+      "title": "Fnaf World goblet-flame"
+    },
+    "generator": "Sketchfab-16.11.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11072,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30672,
+      "byteOffset": 11072,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11072,
+      "byteOffset": 41744,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33216,
+      "byteOffset": 52816,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22144,
+      "byteOffset": 86032,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 640,
+      "byteOffset": 108176,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 108816,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/g-flame_emissive.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 0
+      },
+      "name": "g-flame"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 5,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "WEIGHTS_0": 6
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "goblet-flame.rig_11"
+    },
+    {
+      "children": [
+        5,
+        7,
+        6
+      ],
+      "name": "GLTF_created_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "GLTF_created_0_rootJoint"
+    },
+    {
+      "name": "obj_g-flame_10"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_7",
+      "skin": 0
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "b_flame_0_9",
+      "translation": [
+        0.0,
+        0.2293797731399536,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "b_flame_1_8",
+      "translation": [
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "b_flame_2_7",
+      "translation": [
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "b_flame_3_6",
+      "translation": [
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "b_flame_4_5",
+      "translation": [
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "b_flame_5_4",
+      "translation": [
+        0.0,
+        0.24999725818634033,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "b_flame_6_3",
+      "translation": [
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "b_flame_7_2",
+      "translation": [
+        0.0,
+        0.24999988079071045,
+        0.0
+      ]
+    },
+    {
+      "name": "b_flame_8_1",
+      "translation": [
+        0.0,
+        0.24999988079071045,
+        0.0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 4,
+      "joints": [
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

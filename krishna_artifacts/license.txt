@@ -1,0 +1,11 @@
+Model Information:
+* title:	Krishna Artifacts
+* source:	https://sketchfab.com/3d-models/krishna-artifacts-506d0a8f43884c458e5a78156151ff09
+* author:	Arun XR (https://sketchfab.com/arunxr)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Krishna Artifacts" (https://sketchfab.com/3d-models/krishna-artifacts-506d0a8f43884c458e5a78156151ff09) by Arun XR (https://sketchfab.com/arunxr) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
